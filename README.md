@@ -1,4 +1,5 @@
 # Movie-Ticket-Booking-Website
+<<<<<<< HEAD
 
 A Basic Movie Ticket Booking System. 
 
@@ -35,3 +36,5 @@ Also, some data is pre-populated for sample purpose<br>
 * If current timing exceeds any show timing's end time, then status is changed to completed and hence,ticket cannot be booked for such shows..
 * If current timing exceeds any show timing's start time but not end time , then that show is running and hence,ticket cannot be booked for such shows.
 
+=======
+>>>>>>> 2907013d72f86f11e74694f2abfa4bbedf7d67b9
