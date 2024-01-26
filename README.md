@@ -1,7 +1,6 @@
 # Movie-Ticket-Booking-Website
-<<<<<<< HEAD
 
-A Basic Movie Ticket Booking System. 
+A Basic Movie Ticket Booking Application. 
 
 ## About
 The Software system is an online movie ticket booking system where customers can book seats according to their preference.<br>
@@ -37,4 +36,3 @@ Also, some data is pre-populated for sample purpose<br>
 * If current timing exceeds any show timing's start time but not end time , then that show is running and hence,ticket cannot be booked for such shows.
 
 =======
->>>>>>> 2907013d72f86f11e74694f2abfa4bbedf7d67b9
